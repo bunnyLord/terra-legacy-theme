@@ -1,0 +1,34 @@
+{
+  "name": "terra-legacy-theme",
+  "version": "0.1.0-rc.1",
+  "description": "Provides variables to style terra-components based on legacy Terra",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerner/terra-legacy-theme.git"
+  },
+  "keywords": [
+    "Cerner",
+    "Terra",
+    "terra-legacy-theme",
+    "Theme",
+    "UI"
+  ],
+  "author": "Cerner Corporation",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/cerner/terra-legacy-theme/issues"
+  },
+  "homepage": "https://github.com/cerner/terra-legacy-theme#readme",
+  "scripts": {
+    "lint": "npm run lint-js && npm run lint-scss",
+    "lint-js": "eslint .",
+    "lint-scss": "stylelint src/terra/**/*.scss"
+  },
+  "devDependencies": {
+    "eslint": "^3.3.1",
+    "eslint-config-airbnb-base": "^5.0.3",
+    "eslint-plugin-import": "^1.14.0",
+    "stylelint": "^7.1.0",
+    "stylelint-config-sass-guidelines": "^1.1.0"
+  }
+}

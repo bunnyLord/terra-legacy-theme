@@ -1,0 +1,13 @@
+$terra-tiny-breakpoint: 34em !default;
+$terra-small-breakpoint: 48em !default;
+$terra-medium-breakpoint: 62em !default;
+$terra-large-breakpoint: 76em !default;
+$terra-huge-breakpoint: 90em !default;
+
+$terra-breakpoints: (
+  tiny: $terra-tiny-breakpoint,
+  small: $terra-small-breakpoint,
+  medium: $terra-medium-breakpoint,
+  large: $terra-large-breakpoint,
+  huge: $terra-huge-breakpoint
+) !default;
