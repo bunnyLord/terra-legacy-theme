@@ -1,6 +1,6 @@
 {
   "name": "terra-legacy-theme",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-rc.2",
   "description": "Provides variables to style terra-components based on legacy Terra",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   "scripts": {
     "lint": "npm run lint-js && npm run lint-scss",
     "lint-js": "eslint .",
-    "lint-scss": "stylelint src/terra/**/*.scss"
+    "lint-scss": "stylelint src/**/*.scss"
   },
   "devDependencies": {
     "eslint": "^3.3.1",
