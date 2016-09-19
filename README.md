@@ -1,5 +1,7 @@
 # Terra Legacy Theme _(Currently in beta)_
 
+[![Build Status](https://travis-ci.org/cerner/terra-legacy-theme.svg?branch=master)](https://travis-ci.org/cerner/terra-legacy-theme)
+
 The terra-legacy-theme component sets global variables for the entire application.
 Global variables are included for responsive breakpoints, colors, and typography.
 
