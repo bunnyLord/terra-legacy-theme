@@ -1,5 +1,6 @@
 # Terra Legacy Theme _(Currently in beta)_
 
+[![NPM version](http://img.shields.io/npm/v/terra-legacy-theme.svg)](https://www.npmjs.org/package/terra-legacy-theme)
 [![Build Status](https://travis-ci.org/cerner/terra-legacy-theme.svg?branch=master)](https://travis-ci.org/cerner/terra-legacy-theme)
 
 The terra-legacy-theme component sets global variables for the entire application.
