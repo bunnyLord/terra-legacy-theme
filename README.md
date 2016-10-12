@@ -2,6 +2,7 @@
 
 [![NPM version](http://img.shields.io/npm/v/terra-legacy-theme.svg)](https://www.npmjs.org/package/terra-legacy-theme)
 [![Build Status](https://travis-ci.org/cerner/terra-legacy-theme.svg?branch=master)](https://travis-ci.org/cerner/terra-legacy-theme)
+[![Stories in Ready](https://badge.waffle.io/cerner/terra-ui.com.svg?label=ready&title=Ready)](http://waffle.io/cerner/terra-ui.com)
 
 The terra-legacy-theme component sets global variables for the entire application.
 Global variables are included for responsive breakpoints, colors, and typography.
